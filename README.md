@@ -7,4 +7,6 @@ A sample fastq is provided.
 This script must be run in a python environment such as Anaconda.
 
 **Example**
-    python sequence_checker_max.py sample.fastq
+```
+python sequence_checker_max.py sample.fastq
+```
