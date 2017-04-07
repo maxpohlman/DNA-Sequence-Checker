@@ -3,11 +3,11 @@
 
 This python script will take in one *.fastq file as an argument and return one of the following based on a second argument
 
-*'repeats' returns number of repeating sequences of the same bases
+* 'repeats' returns number of repeating sequences of the same bases
 
-*'pairs' returns the number of each pair of bases
+* 'pairs' returns the number of each pair of bases
 
-*A number between 1 and 100 will return the number of kmers of that length (
+* A number between 1 and 100 will return the number of kmers of that length (
 
 
 A sample fastq is provided. 
