@@ -7,7 +7,7 @@ This python script will take in one *.fastq file as an argument and return one o
 
 * 'pairs' returns the number of each pair of bases
 
-* A number between 1 and 100 will return the number of kmers of that length (
+* A number between 1 and 100 will return the number of kmers of that length 
 
 
 A sample fastq is provided. 
